@@ -9,7 +9,7 @@
 <body>
   
 <?php
-  require_once("src/11_sanitizingInputs.php");
+  require_once("src/12_cookies.php");
 ?>
 
 </body>

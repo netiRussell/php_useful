@@ -9,7 +9,7 @@
 <body>
   
 <?php
-  require_once("src/12_cookies.php");
+  require_once("src/13_sessions.php");
 ?>
 
 </body>
